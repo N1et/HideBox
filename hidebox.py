@@ -13,7 +13,7 @@ from std import *
 
 cryptoptions = ["AES"] #Criptografias disponiveis.
 #   Para implementar uma nova criptografia, é necessário adicionar o nome do arquivo aqui
-#   É preciso que o lib/arquivodef.py tenha duas funções main_encrypt e main_decrypt
+#   é preciso que o lib/arquivodef.py tenha duas funções main_encrypt e main_decrypt
 #   e tenha o nome "def" no final do nome
 
 parser = optparse.OptionParser(usage="%prog [-e] -i IMAGE -f FILE",
