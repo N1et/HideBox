@@ -6,8 +6,9 @@ O script é uma implementação do Stepic.
 ```sh
 $ ./hidebox.py -e -i IMAGE -f FILE 
 $ ./hidebox.py -d -i IMAGE -o output.txt`
-Help Message
 ```
+Help Message
+
 Usage: hidebox.py [-e] -i IMAGE -f FILE
 
 HideBox - Oculta arquivos em imagens de forma segura.
