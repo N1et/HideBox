@@ -3,10 +3,10 @@ Escrito em python2, HideBox é que criptografa e oculta um arquivo em uma imagem
 
 O script é uma implementação do Stepic.
 ## Sintaxe
-Modo Criptografar<br>
 ```sh
-$ ./hidebox.py -e -i IMAGE -f FILE <br>
-$ ./hidebox.py -d -i IMAGE -o output.txt`<br>
+$ ./hidebox.py -e -i IMAGE -f FILE 
+$ ./hidebox.py -d -i IMAGE -o output.txt`
+Help Message
 ```
 Usage: hidebox.py [-e] -i IMAGE -f FILE
 
