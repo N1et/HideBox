@@ -8,7 +8,7 @@ $ ./hidebox.py -e -i IMAGE -f FILE
 $ ./hidebox.py -d -i IMAGE -o output.txt`
 ```
 Help Message
-```sh
+```
 Usage: hidebox.py [-e] -i IMAGE -f FILE
 
 HideBox - Oculta arquivos em imagens de forma segura.
