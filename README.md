@@ -39,5 +39,8 @@ Options:
 ## Implementação de criptografia
 - O arquivo necessita de 2 funções, main_encrypt e main_decrypt
 - É preciso estar na pasta lib
+## Dependencias
+- Stepic
+- PyCrytoDome
 ## License
 GPL
