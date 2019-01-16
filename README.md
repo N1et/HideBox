@@ -1,7 +1,7 @@
 ## HideBox
 Escrito em python2, HideBox é que criptografa e oculta um arquivo em uma imagem png.
 
-O script é uma implementação do Stepic.
+
 ## Sintaxe
 ```sh
 $ echo "this is secret" > secret_file
