@@ -36,7 +36,7 @@ Options:
   --list-crypt         criptografia que sera usada
   -o FILE, --out=FILE  Escreve os dados obtidos de IMAGE no arquivo FILEOUT.
   ```
-## Implementação de criptografia
+## criptografia
 - O arquivo necessita de 2 funções, main_encrypt e main_decrypt
 - É preciso estar na pasta lib
 ## Dependencias
